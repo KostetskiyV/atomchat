@@ -18,7 +18,7 @@
 
 <ul><li>    localhost:8000/api/v1/users/registrate/</li>
       <p>Регистрирует пользователя, принимает POST запросы, типа:</p>
-      ```yaml
+```javascript
       {
           "user": {
               "username": username,
