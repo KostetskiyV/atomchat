@@ -2,7 +2,7 @@
 <p>0. Установите Python 3, если он не установлен.</p>
 <p>1. Скачайте родительскую директорию atomsite.</p>
 <p>2. Откройте терминал и перейдите в неё.</p>
-<p>3. Находясь в режиме суперпользователя пропишите команды: «python manage.py makemigrations», «python manage.py migrate», «pip install -r requirements.txt»</p>
+<p>3. Находясь в режиме суперпользователя пропишите команды: «pip install -r requirements.txt», «python manage.py makemigrations», «python manage.py migrate»</p>
 <p>4. Запустите проект, прописав команду «python manage.py runserver»</p>
 
 <h2 align="center">Фунционал</h2>
