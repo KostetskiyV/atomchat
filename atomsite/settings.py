@@ -83,6 +83,7 @@ DATABASES = {
         'PASSWORD': '68Tyde58',
         'HOST': '50.62.182.241',
         'PORT': '3306',
+        'OPTIONS': {'ssl_mode': 'DISABLED'},
     }
 }
 
