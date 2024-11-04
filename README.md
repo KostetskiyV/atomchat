@@ -1,4 +1,5 @@
 <h1 align="center">Инструкция по деплою ATOMCHAT</h1>
+<p>0. Установите Python 3, если он не установлен.</p>
 <p>1. Скачайте родительскую директорию atomsite.</p>
 <p>2. Откройте терминал и перейдите в неё.</p>
 <p>3. Находясь в режиме суперпользователя пропишите команды: «python manage.py makemigrations», «python manage.py migrate», «pip install -r requirements.txt»</p>
